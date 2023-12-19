@@ -1,0 +1,9 @@
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\org\acme\StudentResource.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\entity\Student.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\dto\AverageMarksDTO.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\dto\StudentDTO.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\repository\StudentRepository.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\dto\SubjectDTO.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\entity\Subject.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\service\StudentService.java
+D:\Eclipse Workspace\Quarkus\api-with-quarkus\src\main\java\repository\SubjectRepository.java
